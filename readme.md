@@ -1,5 +1,5 @@
 # Rotate4D
-This is the source code of the Rotate4D algorithm of the "Knowledge Graph Embedding with the Special Orthogonal Group in Quaternion Space for Link Prediction" paper being submitted for review.
+This is the source code of the Rotate4D algorithm of the "Knowledge Graph Embedding with the Special Orthogonal Group in Quaternion Space for Link Prediction" paper.
 # Authors
 Thanh Le, Huy Tran, Bac Le
 (Faculty of Information Technology, University of Science, Ho Chi Minh City, Vietnam and Vietnam National University, Ho Chi Minh City, Vietnam)
